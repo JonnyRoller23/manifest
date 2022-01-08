@@ -6,11 +6,9 @@
           fetch="https://github.com/"
           clone-depth="1" />
      <remote name="LineageOS"
-          fetch="https://github.com/LineageOS"
-          clone-depth="1" />
+          fetch="https://github.com/LineageOS" />
      <remote name="mi-sdm439"
-          fetch="https://github.com/mi-sdm439"
-          clone-depth="1" />
+          fetch="https://github.com/mi-sdm439" />
 
     <!-- Device repos -->
     <project path="device/xiaomi/olives" name="JonnyRoller23/device_xiaomi_olives-8A" remote="all" revision="lineage-18.1" />
