@@ -16,14 +16,6 @@
     <project path="kernel/xiaomi/sdm439" name="JonnyRoller23/kernel-olives" remote="all" revision="11" />
     <project path="vendor/xiaomi/olives" name="JonnyRoller23/vendor_xiaomi_olives-8A" remote="all" revision="11" />
     <project path="vendor/xiaomi/sdm439-common" name="JonnyRoller23/vendor_xiaomi_olives-common" remote="all" revision="11" />
-
-    <!-- HALs -->
-    <remove-project name="LineageOS/android_hardware_qcom_display" />
-    <project path="hardware/qcom-caf/msm8996/display" name="android_hardware_qcom_display" remote="mi-sdm439" revision="lineage-18.1-caf-msm8996"/>
-    <remove-project name="LineageOS/android_hardware_qcom_audio" />
-    <project path="hardware/qcom-caf/msm8996/audio" name="android_hardware_qcom_audio" remote="mi-sdm439" revision="lineage-18.1-caf-msm8996"/>
-    <remove-project name="LineageOS/android_hardware_qcom_media" />
-    <project path="hardware/qcom-caf/msm8996/media" name="android_hardware_qcom_media" remote="LineageOS" revision="lineage-18.1-caf-msm8996"/>
     
     <!-- Extra -->
     <remove-project name="LineageOS/android_packages_apps_FMRadio" />
