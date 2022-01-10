@@ -26,4 +26,6 @@
     <project path="packages/apps/FMRadio" name="mi-sdm439/android_packages_apps_FMRadio" remote="all" revision="lineage-18.1" clone-depth="1" />
     <remove-project name="LineageOS/android_packages_apps_Recorder" />
     <project path="packages/apps/Recorder" name="LineageOS/android_packages_apps_Recorder" remote="all" revision="lineage-18.1"/>
+    <remove-project name="LineageOS/android_vendor_lineage" />
+    <project path="vendor/lineage" name="JonnyRoller23/android_vendor_lineage" remote="all" revision="lineage-18.1"/>
 </manifest>
