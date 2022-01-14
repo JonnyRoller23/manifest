@@ -28,4 +28,6 @@
     <project path="packages/apps/Recorder" name="LineageOS/android_packages_apps_Recorder" remote="all" revision="lineage-18.1"/>
     <remove-project name="LineageOS/android_vendor_lineage" />
     <project path="vendor/lineage" name="JonnyRoller23/android_vendor_lineage" remote="all" revision="lineage-18.1"/>
+    <remove-project name="LineageOS/android_packages_apps_Updater" />
+    <project path="packages/apps/Updater" name="JonnyRoller23/packages_apps_Updater" remote="all" revision="11" clone-depth="1" />
 </manifest>
