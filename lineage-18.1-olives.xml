@@ -28,4 +28,10 @@
     <project path="packages/apps/Recorder" name="LineageOS/android_packages_apps_Recorder" remote="all" revision="lineage-18.1"/>
     <remove-project name="LineageOS/android_vendor_lineage" />
     <project path="vendor/lineage" name="JonnyRoller23/android_vendor_lineage" remote="all" revision="lineage-18.1"/>
+    <remove-project name="LineageOS/android_packages_overlays_Lineage" />
+    <project path="packages/overlays/Lineage" name="JonnyRoller23/android_packages_overlays_Lineage" remote="all" revision="lineage-18.1"/>
+    <remove-project name="LineageOS/android_frameworks_base" />
+    <project path="frameworks/base" name="JonnyRoller23/android_frameworks_base-1" remote="all" revision="lineage-18.1"/>
+    <remove-project name="LineageOS/android_packages_apps_Settings" />
+    <project path=""packages/apps/Settings" name="JonnyRoller23/android_packages_apps_Settings" remote="all" revision="lineage-18.1"/>
 </manifest>
