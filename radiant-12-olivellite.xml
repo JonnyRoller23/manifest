@@ -25,7 +25,6 @@
     
     
     <!-- Extra -->
-    <project path="packages/apps/FMRadio" name="mi-sdm439/android_packages_apps_FMRadio" remote="all" revision="lineage-18.1" clone-depth="1" />
     <remove-project name="android_packages_resources_devicesettings"/>
     <project path="packages/resources/devicesettings" name="hsx02/packages_resources_devicesettings" remote="all" revision="lineage-18.1"/>
     <remove-project name="device_qcom_sepolicy"/>
