@@ -35,7 +35,7 @@
     <remove-project name="LineageOS/android_packages_apps_Settings" />
     <project path="packages/apps/Settings" name="JonnyRoller23/android_packages_apps_Settings" remote="all" revision="lineage-18.1"/>
     <remove-project name="LineageOS/android_packages_apps_Trebuchet" />
-    <project path="packages/apps/Trebuchet" name="JonnyRoller23/android_packages_apps_Trebuchet" remote="all" revision="lineage-18.1"/>
+    <project path="packages/apps/Trebuchet" name="JonnyRoller23/android_packages_apps_Trebuchet0" remote="all" revision="lineage-18.1"/>
     <remove-project name="LineageOS/android_packages_apps_Dialer" />
     <project path="packages/apps/Dialer" name="JonnyRoller23/android_packages_apps_Dialer" remote="all" revision="11.0"/>
     <remove-project name="LineageOS/android_packages_inputmethods_LatinIME" />
