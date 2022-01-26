@@ -19,7 +19,7 @@
     <remove-project name="crdroidandroid/android_hardware_qcom_media"/>
     <project path="hardware/qcom-caf/msm8996/media" name="ChuckProjekt/hardware_qcom_media" remote="all" revision="8.6.2"/>
     <remove-project name="crdroidandroid/android_hardware_qcom_display"/>
-    <project path="hardware/qcom-caf/msm8996/display" name="mi-msm8937/hardware_qcom-caf_display" remote="all" revision="twelve"/>
+    <project path="hardware/qcom-caf/msm8996/display" name="mi-msm8937/android_hardware_qcom_display" remote="all" revision="twelve"/>
     <remove-project name="LineageOS/android_hardware_qcom_wlan"/>
     <project path="hardware/qcom-caf/wlan" name="hsx02/hardware_qcom-caf_wlan" remote="all" revision="S"/>
     
