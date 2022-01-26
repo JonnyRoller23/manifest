@@ -20,7 +20,7 @@
     <project path="hardware/qcom-caf/msm8996/media" name="hsx02/hardware_qcom_media" remote="all" revision="8.6.2"/>
     <remove-project name="android_hardware_qcom_display"/>
     <project path="hardware/qcom-caf/msm8996/display" name="hsx02/hardware_qcom-caf_display" remote="all" revision="Aex-S"/>
-    <remove-project name="android_hardware_qcom_wlan"/>
+    <remove-project name="android_hardware_qcom-caf_wlan"/>
     <project path="hardware/qcom-caf/wlan" name="hsx02/hardware_qcom-caf_wlan" remote="all" revision="S"/>
     
     
