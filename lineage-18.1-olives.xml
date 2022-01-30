@@ -5,6 +5,11 @@
     <remote name="all"
           fetch="https://github.com/"
           clone-depth="1" />
+    
+    <remote  name="arrow-gitlab"
+           fetch="https://gitlab.com/arrowos-project"
+           review="https://review.arrowos.net/"
+           revision="refs/heads/arrow-11.0" />
 
     <!-- Device repos -->
     <project path="device/xiaomi/olivelite" name="olives-trees/device_xiaomi_olivelite" remote="all" revision="lineage-18.1" />
