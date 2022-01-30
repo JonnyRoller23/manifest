@@ -6,7 +6,7 @@
           fetch="https://github.com/"
           clone-depth="1" />
     
-    <remote  name="arrow-gitlab"
+    <remote  name="all"
            fetch="https://gitlab.com/arrowos-project"
            review="https://review.arrowos.net/"
            revision="refs/heads/arrow-11.0" />
