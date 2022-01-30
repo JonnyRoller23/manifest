@@ -12,12 +12,4 @@
     <project path="kernel/xiaomi/sdm439" name="JonnyRoller23/kernel-olives" remote="all" revision="11-LMK" />
     <project path="vendor/xiaomi/olivelite" name="olives-trees/vendor_xiaomi_olivelite" remote="all" revision="lineage-18.1" />
     <project path="vendor/xiaomi/sdm439-common" name="olives-trees/vendor_xiaomi_olivelite-common" remote="all" revision="lineage-18.1" />
-    
-    <!-- HALs -->
-    <remove-project name="platform/hardware/qcom/audio" />
-    <project path="hardware/qcom-caf/msm8996/audio" name="LineageOS/android_hardware_qcom_audio" remote="all" revision="lineage-18.1-caf-msm8996" />
-    <remove-project name="platform_hardware_qcom_media" />
-    <project path="hardware/qcom-caf/msm8996/media" name="LineageOS/android_hardware_qcom_media" remote="all" revision="lineage-18.1-caf-msm8996" />
-    <remove-project name="platform_hardware_qcom_display" />
-    <project path="hardware/qcom-caf/msm8996/display" name="mi-sdm439/android_hardware_qcom_display" remote="all" revision="lineage-18.1-caf-msm8996" />
 </manifest>
