@@ -5,10 +5,6 @@
     <remote name="all"
           fetch="https://github.com/"
           clone-depth="1" />
-    
-    <remote  name="all"
-           fetch="https://gitlab.com/arrowos-project"
-           clone-depth="1" />
 
     <!-- Device repos -->
     <project path="device/xiaomi/olivelite" name="olives-trees/device_xiaomi_olivelite" remote="all" revision="lineage-18.1" />
@@ -38,5 +34,5 @@
     <project path="android" name="JonnyRoller23/android" remote="all" revision="lineage-18.1"/>
     <remove-project name="LineageOS/android_frameworks_native" />
     <project path="frameworks/native" name="JonnyRoller23/android_frameworks_native" remote="all" revision="lineage-18.1"/>
-    <project path="packages/apps/FaceUnlockService" name="arrowos-project/android_packages_apps_FaceUnlockService" remote="all" revision="arrow-11.0" clone-depth="1" />
+    <project path="packages/apps/FaceUnlockService" name="JonnyRoller23/android_packages_apps_FaceUnlockService1" remote="all" revision="arrow-11.0" clone-depth="1" />
 </manifest>
