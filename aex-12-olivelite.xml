@@ -14,12 +14,6 @@
     <project path="vendor/xiaomi/sdm439-common" name="jonny988/vendor_xiaomi_olivelite-common" remote="all" revision="12" />
     
     <!-- HALs -->
-    <remove-project name="platform_hardware_qcom_adio"/>
-    <project path="hardware/qcom-caf/msm8996/audio" name="ChuckProjekt/hardware_qcom_audio" remote="all" revision="8.6.2"/>
-    <remove-project name="platform_hardware_qcom_media"/>
-    <project path="hardware/qcom-caf/msm8996/media" name="ChuckProjekt/hardware_qcom_media" remote="all" revision="8.6.2"/>
-    <remove-project name="platform_hardware_qcom_display"/>
-    <project path="hardware/qcom-caf/msm8996/display" name="mi-msm8937/android_hardware_qcom_display" remote="all" revision="twelve"/>
     <remove-project name="platform_hardware_qcom_wlan"/>
     <project path="hardware/qcom-caf/wlan" name="hsx02/hardware_qcom-caf_wlan" remote="all" revision="S"/>
     
