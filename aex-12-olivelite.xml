@@ -16,7 +16,8 @@
     <!-- HALs -->
     <remove-project name="platform_hardware_qcom_wlan"/>
     <project path="hardware/qcom-caf/wlan" name="hsx02/hardware_qcom-caf_wlan" remote="all" revision="S"/>
-    
+    <remove-project name="platform_hardware_qcom_display"/>
+    <project path="hardware/qcom-caf/msm8996/display" name="hsx02/hardware_qcom-caf_display" remote="all" revision="Aex-S"/>
     
     <!-- Extra -->
     <project path="packages/resources/devicesettings" name="hsx02/packages_resources_devicesettings" remote="all" revision="lineage-18.1"/>
