@@ -21,7 +21,6 @@
     <!-- Extra -->
     <project path="packages/resources/devicesettings" name="hsx02/packages_resources_devicesettings" remote="all" revision="lineage-18.1"/>
     <project path="packages/apps/FMRadio" name="hsx02/packages_apps_FMRadio" remote="all" revision="lineage-18.1"/>
-    <project path="external/ant-wireless/antradio-library" name="PixelExperience/external_ant-wireless_antradio-library" remote="all" revision="twelve"/>
     <remove-project name="platform_device_qcom_sepolicy"/>
     <project path="device/qcom/sepolicy-legacy-um" name="PixelExperience/device_qcom_sepolicy-legacy-um" remote="all" revision="twelve"/>
 </manifest>
