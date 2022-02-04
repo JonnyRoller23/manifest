@@ -28,4 +28,6 @@
     <remove-project name="LineageOS/android_packages_resources_devicesettings"/>
     <project path="packages/resources/devicesettings" name="hsx02/packages_resources_devicesettings" remote="all" revision="lineage-18.1"/>
     <project path="external/ant-wireless/antradio-library" name="PixelExperience/external_ant-wireless_antradio-library" remote="all" revision="twelve"/>
+    <remove-project name="LineageOS/android_device_qcom_sepolicy"/>
+    <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="hsx02" revision="twelve" />
 </manifest>
